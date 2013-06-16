@@ -16,6 +16,6 @@ The program is available as the source code (MLHKA_version2.1.cpp), help file (R
 
 	http://labs.eeb.utoronto.ca/wright/Stephen_I._Wright/Programs.html
 
-The source code requires a c++ compliler, e.g. on unix, type: 'g++ MLHKA_version2.cpp –o MLHKA'.
+The source code requires a c++ compliler, e.g. on unix, type: `g++ MLHKA_version2.cpp –o MLHKA`.
 
 For questions, please e-mail stephen.wright@utoronto.ca .  For problems with this version of the code, please email rossibarra at ucdavis dot edu.
